@@ -5,6 +5,12 @@
 + How to reach me : orehi3634@gmail.com
 
 <a href="https://megaovelee.tistory.com/"><img src="https://img.shields.io/badge/tistory-EE4C2C?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href="https://blog.naver.com/orehi3634"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
+<a href="http://forestcat.pe.kr/"><img src="https://img.shields.io/badge/windowsterminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"></a>
+<a href="https://github.com/MeganOveLee"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/oveleese1/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
 
 <h2>portfolio list 📝</h2>
 
@@ -31,9 +37,9 @@ notion : https://exultant-tail-21f.notion.site/337c368d14244e30a7f326f39522270c
 Desktop Ver : 1일 3시간씩 2주 <br>
 Mobile : 2일에 걸쳐 만들고 1일 수정
 
-<h3>project calender  </h3>
+<h3>project comment</h3>
 
-클론 코딩을 마치고 느낀 점 : css와 javaScript를 공부해가면서 작업하느라 데스크탑 버전은 시간이 많이 걸렸지만 현대카드를 데스크탑 반응형과 모바일을 완성해보면서 기술들을 내 것으로 익혔고 다음 작업은 빠르게 진행 할 수 있을 것 같다는 자신감이 붙었다.
+클론 코딩을 마치고 느낀 점 : css와 javaScript를 공부해가면서 작업하느라 데스크탑 버전은 시간이 많이 걸렸지만 현대카드를 데스크탑 반응형과 모바일을 완성해보면서 기술들을 내 것으로 익혔고 다음 작업은 빠르게 진행 할 수 있을 것 같다.
 
 
 
