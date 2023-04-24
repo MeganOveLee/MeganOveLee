@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Seyeon.
 
 - I wanna be a Frontend developer.
-* I'm currently learning flexibel website.
+* I'm currently learning Responsive Web.
 + How to reach me : orehi3634@gmail.com
 
 <a href="https://megaovelee.tistory.com/"><img src="https://img.shields.io/badge/tistory-EE4C2C?style=for-the-badge&logo=tistory&logoColor=white"></a>
@@ -32,8 +32,9 @@
 <br>
 
 <h3>project calender 📆</h3>
-notion : https://exultant-tail-21f.notion.site/337c368d14244e30a7f326f39522270c
+
 ![공정표](https://user-images.githubusercontent.com/126891386/233907206-d04477c1-f042-4ecf-aa96-f95f31b58ad9.jpg)
+notion : https://exultant-tail-21f.notion.site/337c368d14244e30a7f326f39522270
 Desktop Ver : 1일 3시간씩 2주 <br>
 Mobile : 2일에 걸쳐 만들고 1일 수정
 
